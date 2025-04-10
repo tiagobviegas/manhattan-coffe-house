@@ -7,7 +7,7 @@ Projeto de um website de uma cafeteriafictícia para exercício de posicionament
 Fictional coffe shop webpage to practice fixed and relative positioning and parallax efect.
 
 ## PROGRESSO
-- [ ] Estruturação da página HTML para posterior estilização
+- [X] Estruturação da página HTML para posterior estilização
 - [ ] Reset das especificações CSS padrões
 - [ ] Definição de elementos essenciais e estilizações comuns
 - [ ] Sessão 1 - Topo - concluída
@@ -25,7 +25,7 @@ Fictional coffe shop webpage to practice fixed and relative positioning and para
 - [ ] Projeto concluído
 
 ## PROGRESS
-- [ ] HTML structuring for styling work
+- [X] HTML structuring for styling work
 - [ ] Reset CSS standard specs
 - [ ] Definition of essential elements and common styles
 - [ ] Section 1 - Top - concluded
@@ -36,7 +36,7 @@ Fictional coffe shop webpage to practice fixed and relative positioning and para
 - [ ] Subsection 3.3 - Text content container
 - [ ] Subsection 3.4 - Image container
 - [ ] Subsection 3.5 - Text content container
-- [ ] Section 4 - Contacts - concluded
+- [ ] Section 4 - Contact - concluded
 - [ ] Section 5 - opening hours - concluded
 - [ ] Section 6 - Footer - concluded
 - [ ] Refactoring
