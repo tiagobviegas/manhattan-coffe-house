@@ -21,8 +21,8 @@ Fictional coffe shop webpage to practice fixed and relative positioning and para
 - [X] Sessão 4 - Contatos - concluída
 - [X] Sessão 5 - Horários - concluída
 - [X] Sessão 6 - Rodapé - concluída
-- [ ] Refatoração
-- [ ] Projeto concluído
+- [X] Refatoração
+- [X] Projeto concluído
 
 ## PROGRESS
 - [X] HTML structuring for styling work
@@ -39,5 +39,5 @@ Fictional coffe shop webpage to practice fixed and relative positioning and para
 - [X] Section 4 - Contact - concluded
 - [X] Section 5 - opening hours - concluded
 - [X] Section 6 - Footer - concluded
-- [ ] Refactoring
-- [ ] Project concluded
+- [X] Refactoring
+- [X] Project concluded
