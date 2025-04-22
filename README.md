@@ -18,9 +18,9 @@ Fictional coffe shop webpage to practice fixed and relative positioning and para
 - [X] Subsessão 3.3 - Container com conteúdo textual
 - [X] Subsessão 3.4 - Container com imagem
 - [X] Subsessão 3.5 - Container com conteúdo textual
-- [ ] Sessão 4 - Contatos - concluída
-- [ ] Sessão 5 - Horários - concluída
-- [ ] Sessão 6 - Rodapé - concluída
+- [X] Sessão 4 - Contatos - concluída
+- [X] Sessão 5 - Horários - concluída
+- [X] Sessão 6 - Rodapé - concluída
 - [ ] Refatoração
 - [ ] Projeto concluído
 
@@ -36,8 +36,8 @@ Fictional coffe shop webpage to practice fixed and relative positioning and para
 - [X] Subsection 3.3 - Text content container
 - [X] Subsection 3.4 - Image container
 - [X] Subsection 3.5 - Text content container
-- [ ] Section 4 - Contact - concluded
-- [ ] Section 5 - opening hours - concluded
-- [ ] Section 6 - Footer - concluded
+- [X] Section 4 - Contact - concluded
+- [X] Section 5 - opening hours - concluded
+- [X] Section 6 - Footer - concluded
 - [ ] Refactoring
 - [ ] Project concluded
